@@ -1,3 +1,3 @@
-#este es un programa para probar Git#
+#este es un programa para probar Git Fabian Modificando
 
-Print "hola mundo Git"
+print("Hola Mundo Git")
